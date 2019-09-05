@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="appClientModule"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/I18N/Downloads/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="C:/Users/I18N/Downloads/mysql-connector-java.jar.zip"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
